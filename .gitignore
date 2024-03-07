@@ -9,6 +9,8 @@
 !go.mod
 !*.svg
 !*.jpg
+!Dockerfile
+!*.txt
 
 !README.md
 !LICENSE
